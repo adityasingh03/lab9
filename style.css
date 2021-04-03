@@ -1,0 +1,14 @@
+.label{
+    color: black;
+    margin: 5px 0px;
+}
+
+input{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    padding: 5px;
+}
